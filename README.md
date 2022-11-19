@@ -4,5 +4,5 @@ The JavaScript code is included as an auxiliary file to the html file in display
 Instructions:
 1.Download all 3 files
 2.Place the files in same folder
-3.Run python script (Json files will be created in the same folder, do not worry)
-4.Click index.html to see the interface 
+3.Run python script (.json & .xlsx files will be created in the same folder, do not worry)
+4.Click index.html to see the interface . (Better option: in VSCode click html.file and select &Go Live,https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
